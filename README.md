@@ -98,10 +98,6 @@ sit753-jenkins-integration/
    npm start
    ```
 
-## API Endpoints
-
-- `GET /api/info` - Returns project information and course details
-
 ## GitHub Integration
 
 This project is designed for GitHub integration and includes:
