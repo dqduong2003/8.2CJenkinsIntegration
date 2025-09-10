@@ -57,7 +57,7 @@ function App() {
           <div className="info-item">
             <h4>Project Status</h4>
             <p>This is a demonstration website for learning CI/CD concepts with Jenkins and GitHub integration.</p>
-            <span className="status">In Progress</span>
+            <span className="status">In Testing</span>
           </div>
         </div>
 
