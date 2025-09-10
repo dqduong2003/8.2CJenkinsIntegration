@@ -134,7 +134,7 @@ This is an academic project for learning purposes. For questions or issues, plea
 
 ## License
 
-This project is created for educational purposes as part of SIT 753 coursework at Deakin University.
+This project is created for educational purposes as part of SIT753 coursework at Deakin University.
 
 ## Author
 
