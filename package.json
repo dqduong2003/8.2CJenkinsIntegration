@@ -1,0 +1,32 @@
+{
+  "name": "sit753-jenkins-integration",
+  "version": "1.0.0",
+  "description": "SIT 753 Professional Practice in Information Technology - Task 8.1C GitHub Integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "build": "cd client && npm run build",
+    "install-client": "cd client && npm install",
+    "heroku-postbuild": "npm run install-client && npm run build"
+  },
+  "keywords": [
+    "react",
+    "nodejs",
+    "express",
+    "sit753",
+    "deakin",
+    "jenkins",
+    "ci-cd"
+  ],
+  "author": "Deakin University Student",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
