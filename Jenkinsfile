@@ -1,1 +1,0 @@
-git branch: 'main', url: 'https://github.com/dqduong2003/8.2CDevSecOps.git'
