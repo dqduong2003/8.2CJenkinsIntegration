@@ -50,7 +50,6 @@ function App() {
               <span className="tech-tag">Express</span>
               <span className="tech-tag">GitHub</span>
               <span className="tech-tag">Jenkins</span>
-              <span className="tech-tag">CursorAI</span>
             </div>
           </div>
           
