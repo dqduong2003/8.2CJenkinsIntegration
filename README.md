@@ -29,7 +29,6 @@ sit753-jenkins-integration/
 - **Backend**: Node.js, Express.js
 - **Version Control**: Git, GitHub
 - **CI/CD**: Jenkins (planned)
-- **Deployment**: Heroku/AWS ready
 
 ## Features
 
